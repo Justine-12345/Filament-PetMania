@@ -1,6 +1,6 @@
 # PetMania: An Animal Shelter Web Application (Filament with Tailwind CSS)
 
-> Complete, built with  Laravel, Filament, Tailwind CSS, and MySQL
+> Built with  Laravel, Filament, Tailwind CSS, and MySQL
 
 Welcome to PetMania, a compassionate online platform dedicated to the rescue and adoption of stray dogs and cats. This non-profit animal shelter rescues, rehabilitates, and finds loving homes for animals in need.
 
